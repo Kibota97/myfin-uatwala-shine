@@ -52,11 +52,11 @@ export const Route = createFileRoute("/")({
         content:
           "Myfin School Utawala shapes future leaders through excellence in education — Early Years, Primary and Junior School in a safe, nurturing Nairobi campus.",
       },
-      { property: "og:title", content: "Myfin School Utawala | Excellence in Education" },
+      { property: "og:title", content: "Myfin School Utawala | Premium Private School in Nairobi" },
       {
         property: "og:description",
         content:
-          "A safe, nurturing and academically ambitious private school in Utawala, Nairobi. Book a school tour or apply online today.",
+          "Myfin School Utawala shapes future leaders through excellence in education — Early Years, Primary and Junior School in a safe, nurturing Nairobi campus.",
       },
     ],
   }),

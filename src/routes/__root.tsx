@@ -81,15 +81,21 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Myfin School Utawala | Private School in Nairobi" },
+      { title: "Myfin School Utawala | Premium Private School in Nairobi" },
       {
         name: "description",
         content:
-          "Myfin School Utawala offers Early Years, Primary and Junior School education in a safe, nurturing Nairobi campus.",
+          "Myfin School Utawala shapes future leaders through excellence in education — Early Years, Primary and Junior School in a safe, nurturing Nairobi campus.",
       },
       { name: "author", content: "Myfin School Utawala" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Myfin School Utawala | Premium Private School in Nairobi" },
+      { name: "twitter:title", content: "Myfin School Utawala | Premium Private School in Nairobi" },
+      { property: "og:description", content: "Myfin School Utawala shapes future leaders through excellence in education — Early Years, Primary and Junior School in a safe, nurturing Nairobi campus." },
+      { name: "twitter:description", content: "Myfin School Utawala shapes future leaders through excellence in education — Early Years, Primary and Junior School in a safe, nurturing Nairobi campus." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/910a4fba-5582-4cbc-892f-cdbead3dd7c1/id-preview-6877685a--5a047897-3d75-4fa2-bf66-15dd86eb94b7.lovable.app-1785307681878.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/910a4fba-5582-4cbc-892f-cdbead3dd7c1/id-preview-6877685a--5a047897-3d75-4fa2-bf66-15dd86eb94b7.lovable.app-1785307681878.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
