@@ -2,7 +2,7 @@
 
 Myfin School Utawala Website Prompt
 
-Create a premium, modern, and highly engaging website for Myfin School Utawala, a private school located in Utawala, Nairobi, Kenya. The website should build trust with parents, showcase academic excellence, and encourage admissions enquiries.
+Create a premium, modern, and highly engaging website for Myfin School Utawala, a private school located in Utawala, Nairobi, Kenya. The website should build trust with parents, showcase academic e[...]
 
 Overall Goal
 
@@ -346,19 +346,7 @@ Accessibility best practices
 
 SEO-friendly structure
 
-Use realistic placeholder content and high-quality images of diverse students and teachers in modern school environments. The final design should look like a premium international school website while remaining welcoming and suitable for a Kenyan audience. Ensure the design can be recreated efficiently in WordPress using Elementor.
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://myfin-uatwala-shine.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/5a047897-3d75-4fa2-bf66-15dd86eb94b7).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+Use realistic placeholder content and high-quality images of diverse students and teachers in modern school environments. The final design should look like a premium international school website [...]
 
 ## Development
 
